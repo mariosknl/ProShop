@@ -1,6 +1,6 @@
 # PROSHOP - MERN Stack eCommerce
 
-This is an eCommerce web application created with M(ongoDb)E(xpress)R(eact)N(ode) Stack. It has user authentication system, an admin user who can add new products in the app, it is also connected to PayPal for payments. It is deployed in Heroku and below you can find the link to visit the app. I'm using Heroku for deployment.
+This is an eCommerce web application created with M(ongoDb)E(xpress)R(eact)N(ode) Stack. It has user authentication system, an admin user who can add new products in the app, it is also connected to PayPal for payments. It is deployed in Heroku and below you can find the link to visit the app.
 
 ![Landing Page](frontend/src/assets/homepage.png)
 ![Sign In Page](frontend/src/assets/signin.png)

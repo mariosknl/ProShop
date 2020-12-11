@@ -10,6 +10,22 @@ This is an eCommerce web application created with M(ongoDb)E(xpress)R(eact)N(ode
 ![Shipping Details Page](frontend/src/assets/placeOrder.png)
 ![Payment Page](frontend/src/assets/paymentPage.png)
 
+# Features
+
+- Full featured shopping cart
+- Product reviews and ratings
+- Top products carousel
+- Product pagination
+- Product search feature
+- User profile with orders
+- Admin product management
+- Admin user management
+- Admin Order details page
+- Mark orders as delivered option
+- Checkout process (shipping, payment method, etc)
+- PayPal / credit card integration
+- Database seeder (products & users)
+
 # Built with
 
 - NodeJs

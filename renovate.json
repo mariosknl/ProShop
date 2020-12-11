@@ -1,11 +1,6 @@
 {
   "extends": [
     "config:base"
-  ]
-}
-{
-  "extends": [
-    "config:base"
   ],
   "packageRules": [
     {
@@ -16,7 +11,7 @@
       "automerge": true
     }
   ],
-  "timezone": "Europe/Athens",
+  "timezone": "Europe/Madrid",
   "schedule": [
     "after 10pm every weekday",
     "before 5am every weekday",

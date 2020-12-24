@@ -11,7 +11,7 @@
       "automerge": true
     }
   ],
-  "timezone": "Europe/Madrid",
+  "timezone": "Europe/Athens",
   "schedule": [
     "after 10pm every weekday",
     "before 5am every weekday",

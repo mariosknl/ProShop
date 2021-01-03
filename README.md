@@ -4,7 +4,7 @@ This is an eCommerce web application created with M(ongoDb)E(xpress)R(eact)N(ode
 
 ![Landing Page](frontend/src/assets/homepage.png)
 ![Sign In Page](frontend/src/assets/signin.png)
-![Cart Page](src/assets/cart.png)
+![Cart Page](frontend/src/assets/cart.png)
 ![Product Page](frontend/src/assets/product.png)
 ![Place Order Page](frontend/src/assets/shipping.png)
 ![Shipping Details Page](frontend/src/assets/placeOrder.png)

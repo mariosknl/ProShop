@@ -7,6 +7,11 @@ const Meta = ({ title, description, keywords }) => {
       <title>{title}</title>
       <meta name="description" content={description} />
       <meta name="keyword" content={keywords} />
+      <meta property="og:image" content="%PUBLIC_URL%/homepage.png" />
+      <meta
+        property="og:url"
+        content="https://proshopapp-by-mariosknl.herokuapp.com/"
+      />
     </Helmet>
   );
 };
